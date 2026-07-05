@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0089_000.yaml, hash: 'sha256:2c19e93d0dc0c6d40ceafdfe5f4e7812ab021f43f48879f1f8e1946b99262e72'}
-  - {seq: 1, filename: KR6a0089_001.yaml, hash: 'sha256:551ccf01106bbd3af958881c71d193642582f20c6a3a808be73c18f4c98fb576'}
+  - {seq: 1, filename: KR6a0089_001.yaml, hash: 'sha256:fa95d48a43ec6cec499212b6dadb81d525f587f54eb036cae2be2146836dbcea'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0089_001.markers.yaml, hash: 'sha256:d949516f1e6a874b78506de87a23410e107bd893b9c8c2a3479cc40a5034007e'}
+  - {seq: 0, role: markers, filename: assets/KR6a0089_000.markers.yaml, hash: 'sha256:831692ad9b3f5b9257ba4f477aa7581607b4b40273f120df23deeff737b4e25e'}
+  - {seq: 1, role: markers, filename: assets/KR6a0089_001.markers.yaml, hash: 'sha256:e96c13cf5334410effd85875ca0f501e2a8b202934e679e85242794912c529e4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說八關齋經
   type: juan
   level: 1
-hash: sha256:d78a86b913102bc36abbadc8fbf16926150acd83d4e4efe64bf36189b4fef094
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d6a5e9b1d12afaad4df6b9b36d37dd9b1986af28684b4651407dfe6cb25b442f
