@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0089_000-T.yaml, hash: 'sha256:2c19e93d0dc0c6d40ceafdfe5f4e7812ab021f43f48879f1f8e1946b99262e72'}
   - {seq: 1, filename: KR6a0089_001-T.yaml, hash: 'sha256:fa95d48a43ec6cec499212b6dadb81d525f587f54eb036cae2be2146836dbcea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0089_000-T.markers.yaml, hash: 'sha256:c2f904628ea1a34910f10d88285fcc9e34262c211816319be72f80bd86733227'}
+  - {seq: 0, role: markers, filename: assets/KR6a0089_000-T.markers.yaml, hash: 'sha256:a1e37a9affb4cc7af4d5595e844541f7720b4ae6c2b253e75ddb558fbe02ca3a'}
   - {seq: 1, role: markers, filename: assets/KR6a0089_001-T.markers.yaml, hash: 'sha256:f512bbfea8994a5eef6c70d60b6b603f5e48254542171568535d9f756e6ba38a'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說八關齋經
   type: juan
   level: 1
-hash: sha256:b46cc0a83ab1b8fbc7ed334413ac33d6ff03deed5749056cc57c402b38c71768
+hash: sha256:b8255133fd76b709e456aaf8ae52f97bfeedaff6faf970a70b16d2ca5e2a8dfa

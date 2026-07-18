@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0089_000.yaml, hash: 'sha256:2c19e93d0dc0c6d40ceafdfe5f4e7812ab021f43f48879f1f8e1946b99262e72'}
   - {seq: 1, filename: KR6a0089_001.yaml, hash: 'sha256:414fb95fc87412866b9fc8b9b16d1f6dbfe26070cf81a637a350d701cfc45dd7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0089_000.markers.yaml, hash: 'sha256:831692ad9b3f5b9257ba4f477aa7581607b4b40273f120df23deeff737b4e25e'}
+  - {seq: 0, role: markers, filename: assets/KR6a0089_000.markers.yaml, hash: 'sha256:009ff671f1d95cee7654ad40077e18f2a523e83152982263e0b6086c2b16548a'}
   - {seq: 1, role: markers, filename: assets/KR6a0089_001.markers.yaml, hash: 'sha256:b312fe55ae7f7ce233a8606847efaa34b6fb4a9905e7589a5b77a2a4becfffa9'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說八關齋經
   type: juan
   level: 1
-hash: sha256:b79438f3275caa663b1c132b900b4a21ec3dd270d280f0b26c3eedfd25f934b6
+hash: sha256:3a90ebcc55bde2550f69bd80e8421d7b5bebce2041de012ee7b585e81a8d122f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
